@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/jawed-salim/jawed-salim/refs/heads/main/name.svg" alt="Jawed Salim" />
+</h1>
+
 ## Hi there 👋
 
 <!--
