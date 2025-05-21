@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/jawed-salim/jawed-salim/refs/heads/main/name.svg" alt="Jawed Salim" />
 </h1>
 
-<h2>
-Hi, I'm Jawed Salim! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29rc2pjOTVpa2kxNzZyYzk0OGE3N245OGdhNWU0ZGg0aHNjeHEwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N7Xb8qr3NjAzLdOtNK/giphy.gif" width=50>
-</h2>
+<h2>Hi, I'm Jawed Salim! <img src="https://raw.githubusercontent.com/jawed-salim/jawed-salim/refs/heads/main/hello.gif" width=80 style="vertical-align: middle;"></h2>
 
 <!--
 **jawed-salim/jawed-salim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
